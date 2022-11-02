@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo Sandoval 
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning web development and data science
+- 🌱 I’m currently learning web development (specifically speaking, angular) and data science 
 - 💞️ I’m looking to collaborate on projects that make me develop as a good programmer in the areas mentioned before.
 - 📫 You can reach me by email: pablosandoval2191@gmail.com 
 
