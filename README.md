@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SPablo2191
+- 👋 Hi, I’m Pablo Sandoval 
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning web development and data science
-- 💞️ I’m looking to collaborate on project that make me develop as a good programmer in the areas mentioned before.
+- 💞️ I’m looking to collaborate on projects that make me develop as a good programmer in the areas mentioned before.
 - 📫 You can reach me by email: pablosandoval2191@gmail.com 
 
 <!---
