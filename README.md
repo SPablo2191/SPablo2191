@@ -1,6 +1,6 @@
 # Hi, I’m Pablo! - ¡Hola, soy Pablo!
 ## Who am i? - ¿Quién soy yo? 👨‍🎓
-- I´m IT technician and advance student of computer science engineer - Soy técnico en informática y estudiante avanzado de ingeniería informática.
+- I´m IT technician and software engineer - Soy técnico en informática e Ingeniero informática.
 ## Interests - Mis Intereses 👀:
 Web Development | Mobile Development | Data Science | 
 --- | --- | --- | 
