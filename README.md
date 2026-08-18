@@ -1,18 +1,78 @@
-# Hi, I’m Pablo! - ¡Hola, soy Pablo!
-## Who am i? - ¿Quién soy yo? 👨‍🎓
-- I´m IT technician and software engineer - Soy técnico en informática e Ingeniero informática.
-## Interests - Mis Intereses 👀:
-Web Development | Mobile Development | Data Science | 
---- | --- | --- | 
-<img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="100" height="100" /> |<img src="https://cdn-icons-png.flaticon.com/512/3371/3371557.png" width="100" height="100" /> | <img src="https://cdn-icons-png.flaticon.com/512/9304/9304571.png" width="100" height="100" /> |
+<h1 align="center">Pablo Sandoval</h1>
+<p align="center">
+  <strong>Full-Stack Engineer · AI Builder · CS Educator</strong><br>
+  Salta, Argentina
+</p>
 
+<p align="center">
+  <a href="https://pablo-sandoval-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/pablo-sandoval-dev/">LinkedIn</a> ·
+  <a href="mailto:pablosandoval2191@gmail.com">Email</a>
+</p>
 
-## Contact Me 🐱‍🏍:
-- You can read more about me in [my portfolio](https://pablo-sandoval-portfolio.vercel.app/).
-- 📫 You can reach me by email: pablosandoval2191@gmail.com 
+---
 
+### About
 
-<!---
-SPablo2191/SPablo2191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer engineer working at Accenture Argentina as a full-stack engineer, building with Node.js, Angular and PostgreSQL on GCP.  
+I also develop AI agents with Azure AI Foundry, deliver Agentic AI training sessions, and contribute to the NVIDIA LATAM support team.
+
+Outside work I teach Python and intro-to-AI courses at [IITA](https://www.instagram.com/iita_salta/), mentor young developers through [BisBlick](https://www.bisblick.org/) and [Technovation Girls](https://www.technovation.org/), and build the web platform for [Descubriendo la Microfauna](https://descubriendo-microfauna.vercel.app/) — a CONICET/UNSa citizen-science project.
+
+**Alt + Pab** is my personal content project on tech, AI and programming, focused on driving digital literacy across the Argentine Northwest (NOA).
+
+---
+
+### Tech stack
+
+```text
+Languages        Python · TypeScript · JavaScript · C# · Java · Kotlin
+Backend          Node.js (NestJS, Express) · FastAPI · Django · Flask · .NET Core · GraphQL
+Frontend         Angular · React / Next.js · Jetpack Compose · Flutter
+Data             PostgreSQL · MongoDB · CosmosDB · SQL Server · Pinecone
+Cloud & DevOps   GCP · Azure (Blob, VMs, AI Foundry, AI Search) · Azure DevOps · Git
+AI / ML          LLMs · Agentic AI · RAG · LangChain · Ollama · NLP · Machine Learning
+Automation       n8n · Make · Python ETL · web scraping
+Other            NX · Unity · Flet · Ionic / Capacitor
+```
+
+---
+
+### Selected projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Descubriendo la Microfauna](https://descubriendo-microfauna.vercel.app/)** | Web platform for a CONICET/UNSa environmental education & citizen-science initiative | Web dev |
+| **Horizontes** | Labour-inclusion platform for people with disabilities — declared of Municipal Interest (Salta, 2025) | Full stack |
+| **RAG chatbot – coeliac disease** | Conversational assistant with automated vectorisation, Pinecone, LangChain, Ollama 3.2, FastAPI & Flet | Python · AI |
+| **[CanSat 2024](https://www.cansatcompetition.com/)** | Ground control system for the AAS/NASA-sponsored satellite competition — real-time telemetry monitoring | Python |
+| **[gluten-t](https://github.com/SPablo2191/gluten-t)** | Mobile app for coeliac-friendly product lookup built with Angular + Ionic | Angular · Ionic |
+
+---
+
+### Certifications
+
+- **Google Cloud Certified: Generative AI Leader** — Google Cloud (2026)
+- **NVIDIA-Certified Associate: Generative AI LLMs** — NVIDIA (2025)
+- **IELTS Academic** — Overall Band 6.5 / B2 (2025)
+
+---
+
+### Publications
+
+- [Mobile application to measure youth health using ML and Smart Band](https://ceur-ws.org/Vol-3693/paper10.pdf) — CEUR / JIINIS 2023  
+- [Hate-speech detection research (NLP)](https://bibliotecas.ucasal.edu.ar/opac_css/index.php?lvl=cmspage&pageid=24&id_notice=72126) — UCASAL, 2022  
+- Intelligent chatbot with Machine Learning and Python — CONAIISI 2021, UTN Mendoza
+
+---
+
+### Speaking
+
+Puna Tech 2026 · UNSa · UCASAL · COPAIPA · Accenture (Agentic AI) · NVIDIA LATAM · Fundación Voces Jóvenes · UNESCO Youth Hackathon 2025
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SPablo2191&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPablo2191&layout=compact&hide_border=true&theme=default&langs_count=8" height="160" alt="Top languages" />
+</p>
