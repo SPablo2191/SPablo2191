@@ -44,9 +44,8 @@ Other            NX · Unity · Flet · Ionic / Capacitor
 |---------|-------------|-------|
 | **[Descubriendo la Microfauna](https://descubriendo-microfauna.vercel.app/)** | Web platform for a CONICET/UNSa environmental education & citizen-science initiative | Web dev |
 | **Horizontes** | Labour-inclusion platform for people with disabilities — declared of Municipal Interest (Salta, 2025) | Full stack |
-| **RAG chatbot – coeliac disease** | Conversational assistant with automated vectorisation, Pinecone, LangChain, Ollama 3.2, FastAPI & Flet | Python · AI |
-| **[CanSat 2024](https://www.cansatcompetition.com/)** | Ground control system for the AAS/NASA-sponsored satellite competition — real-time telemetry monitoring | Python |
-| **[gluten-t](https://github.com/SPablo2191/gluten-t)** | Mobile app for coeliac-friendly product lookup built with Angular + Ionic | Angular · Ionic |
+| **[RAG chatbot – coeliac disease](https://github.com/SPablo2191/python-web-dev-expo)** | Conversational assistant with automated vectorisation, Pinecone, LangChain, Ollama 3.2, FastAPI & Flet | Python · AI |
+| **[CanSat 2024](https://github.com/SPablo2191/cansat-ucasal-2024)** | Ground control system for the AAS/NASA-sponsored satellite competition — real-time telemetry monitoring | Python |
 
 ---
 
@@ -70,9 +69,4 @@ Other            NX · Unity · Flet · Ionic / Capacitor
 
 Puna Tech 2026 · UNSa · UCASAL · COPAIPA · Accenture (Agentic AI) · NVIDIA LATAM · Fundación Voces Jóvenes · UNESCO Youth Hackathon 2025
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPablo2191&show_icons=true&hide_border=true&theme=default&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPablo2191&layout=compact&hide_border=true&theme=default&langs_count=8" height="160" alt="Top languages" />
-</p>
